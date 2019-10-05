@@ -1,0 +1,8 @@
+{
+  "domain": "twitter_parse",
+  "name": "Twitter Parse",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["tweepy==3.8.0"]
+}
